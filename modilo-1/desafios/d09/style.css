@@ -1,0 +1,22 @@
+body{
+    background-color: rgb(12, 12, 12);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+h1,p{
+    color: white;
+}
+
+h1{
+   text-align: center;
+}
+
+.links{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-decoration: none;
+}
