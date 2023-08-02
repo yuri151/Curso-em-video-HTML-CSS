@@ -1,9 +1,23 @@
 body{
     background-color: rgb(12, 12, 12);
+    min-width: 98vw ;
+    min-height: 97   vh;
     display: flex;
     justify-content: center;
     align-items: center;
-    
+}
+
+/* .conteiner{
+    width: 98vw;
+    height: 97vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+} */
+
+div{
+    align-items: center;
+    text-align: center;
 }
 
 h1,p{
@@ -14,9 +28,6 @@ h1{
    text-align: center;
 }
 
-.links{
-    display: flex;
-    justify-content: center;
-    align-items: center;
+a{
     text-decoration: none;
 }
